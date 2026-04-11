@@ -33,6 +33,10 @@ fn main() {
 
     let eeed: &str = &new;
 
+
+    match newwss{
+        
+    }
     #[derive(Debug)]
     struct Point {
         x: f32,
