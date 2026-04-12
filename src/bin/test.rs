@@ -37,6 +37,9 @@ fn main() {
     match newwss{
         
     }
+    match newwssddd{
+        
+    }
     #[derive(Debug)]
     struct Point {
         x: f32,
