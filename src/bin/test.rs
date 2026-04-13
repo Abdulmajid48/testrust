@@ -40,6 +40,12 @@ fn main() {
     match newwssddd{
         
     }
+    match newwssddd{
+        
+    }
+    match newwssddd{
+        
+    }
     #[derive(Debug)]
     struct Point {
         x: f32,
