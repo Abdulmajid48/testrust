@@ -32,6 +32,7 @@ fn main() {
     let newss: &str = "dgdsd";
 
     let eeed: &str = &new;
+    let eeed: &str = &new;
 
 
     match newwss{
